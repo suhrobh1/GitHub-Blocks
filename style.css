@@ -1,0 +1,49 @@
+.container{
+    width: 700px;
+    background-color: rgb(230, 230, 230);
+    margin: 0px auto;
+    padding:20px;
+}
+
+.blueArea {
+    height: 200px;
+    background-color: rgb(60, 186, 224);
+    margin-bottom: 20px;
+}
+
+.pinkArea {
+    height: 200px;
+    background-color: rgb(163, 115, 147);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5px 15px;
+}
+    
+.whiteArea {
+    height: 200px;
+    background-color: white;
+}
+
+.blueArea, .whiteArea{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 15px;
+}
+
+.githubBlocks {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:30px;
+    margin-bottom: 20px;
+}
+
+img{
+    height:180px;
+    vertical-align: center; 
+    
+}
+
