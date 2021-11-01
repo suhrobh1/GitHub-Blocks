@@ -3,6 +3,8 @@
     background-color: rgb(230, 230, 230);
     margin: 0px auto;
     padding:20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .blueArea {
@@ -34,8 +36,6 @@
 }
 
 .githubBlocks {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size:30px;
     margin-bottom: 20px;
@@ -44,6 +44,5 @@
 img{
     height:180px;
     vertical-align: center; 
-    
 }
 
